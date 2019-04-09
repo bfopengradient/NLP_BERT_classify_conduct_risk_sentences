@@ -1,5 +1,5 @@
   
-Testing Bert(large  on Conduct Risk sentences. 
+Testing Bert(large) on Conduct Risk related sentences. 
 
 Testing the large BERT model with just a small amount of sentences. 70 sentences were shown to the BERT model, 27 were of interest. The model was then tested on several sentences to see how it performed on the classification task. 
 
