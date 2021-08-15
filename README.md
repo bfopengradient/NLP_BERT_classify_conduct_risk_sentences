@@ -7,4 +7,4 @@ Versus other embedding pre-trained vectors that are available and not domain spe
 
 The idea behind the test was to check how few hard coded sentences needed to be shown to the model during training. One of the anticipated benefits of working with a large pre-trained model such as BERT is the ability to cut down on the amount of hard coding required to catch information of interest and cut back on false positives at the same time. 
 
-
+Apr/2019
